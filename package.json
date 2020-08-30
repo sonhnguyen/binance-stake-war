@@ -1,0 +1,34 @@
+{
+  "name": "stake-war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonhnguyen/stake-war.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonhnguyen/stake-war/issues"
+  },
+  "homepage": "https://github.com/sonhnguyen/stake-war#readme",
+  "dependencies": {
+    "@binance-chain/javascript-sdk": "^4.1.0",
+    "axios": "^0.19.2",
+    "dot-env": "0.0.1",
+    "dotenv": "^8.2.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.0",
+    "random": "^2.2.0",
+    "request": "^2.88.2",
+    "sleep": "^6.3.0",
+    "web3": "^1.2.11"
+  }
+}
